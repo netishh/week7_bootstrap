@@ -1,0 +1,40 @@
+.carousel-inner img {
+    height: 75vh;
+    object-fit: cover;
+}
+.carousel-control-prev {
+    left: 0%;
+    background-color: rgba(214, 235, 235, 0.507);
+}
+.carousel-control-next {
+    right: 0%;
+    background-color: rgba(214, 235, 235, 0.507);
+}
+.rounded-circle {
+    object-fit: cover;
+    object-position: center;
+}
+.row {
+    margin: 0;
+}
+.marketing {
+    text-align: center;
+}
+.features h2 {
+    margin-bottom: 3rem;
+    margin-top: 2rem;
+}
+.features img {
+    height: 500px;
+}
+.location h2 {
+    margin-bottom: 3rem;
+    margin-top: 4rem;
+}
+.location img {
+       width: 600px;
+    
+}
+.float-right {
+    float: right;
+}
